@@ -54,11 +54,10 @@ public class multipleElements {
                     {
                         multiplicationArray[i][arrayCounter -1] = multiplicationArray[i][0] * arrayCounter;
                     }
+                }// end of if (numberIsInteger)
+            } // end of While loop
 
-                }
-            }
-
-        }
+        } // end of For loop
         // print out the two dimensional array using the deepToString Array Method
         System.out.println((" The two dimensional array is " + Arrays.deepToString(multiplicationArray)));
     }
