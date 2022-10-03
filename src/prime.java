@@ -1,21 +1,17 @@
-
-
+import java.util.Scanner;
 
 import static javax.swing.JOptionPane.showInputDialog;
-import java.util.Scanner;
+
 public class prime {
 
 
-static boolean isStringInt(String s)
-    {
+    static boolean isStringInt(String s) {
         // this function takes a string as a parameter and
         // checks if the string is an integer and returns a boolean value
-        try
-        {
+        try {
             Integer.parseInt(s);
             return true;
-        } catch (NumberFormatException ex)
-        {
+        } catch (NumberFormatException ex) {
             return false;
         }
     }
