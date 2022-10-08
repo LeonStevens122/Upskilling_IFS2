@@ -4,11 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d37f0c9-9f07-49ac-9497-b0b89b6eb4c9" name="Changes" comment="Completed Tasks 1 - 3">
-      <change afterPath="$PROJECT_DIR$/src/Poetry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cypher.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test.txt" afterDir="false" />
+    <list default="true" id="0d37f0c9-9f07-49ac-9497-b0b89b6eb4c9" name="Changes" comment="Completed Tasks 1 - 4">
+      <change afterPath="$PROJECT_DIR$/src/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L2T05/Example Programs/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L2T05/Example Programs/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L2T05/Example Programs/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L2T05/Example Programs/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L2T06/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L2T06/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/L2T06/IFS L2T06 - Advanced Object-Oriented Programming.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poem.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Poetry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Poetry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/encodedPoem.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/encodedPoem.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +49,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2FRcqea1t4A4HClu5vHFTB4or8J" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -48,12 +61,18 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/steve/IdeaProjects/Upskilling_IFS2/src&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\steve\IdeaProjects\Upskilling_IFS2\src" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -91,7 +110,21 @@
       <option name="project" value="LOCAL" />
       <updated>1664821240938</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Completed Tasks 1 - 3">
+      <created>1665084647276</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1665084647276</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Completed Tasks 1 - 3">
+      <created>1665084663009</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1665084663009</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
